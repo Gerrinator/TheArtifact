@@ -25,3 +25,7 @@ The face buttons can toggle the percussion sounds, as well as the recorder. When
 To control the tempo of the percussive rhythm, use the shoulder button. The right shoulder button increases the BPM by 5 while the left shoulder button decreases it by 5. 
 
 You can also change the musical scale and key that the two synths play by usin the D-pad. Pressing left or right changes the scale (ranging from major, minor, pentatonic and blues scales) while pressing up or down changes an "offset", i.e. pressing down will change the key from C major to B. 
+
+# Demo
+
+A demo video showing the most up to date progress of this project, including functionality and an in-depth look at the systems used, is viewable [here.](https://youtu.be/Q9Lt6CKcKac)
